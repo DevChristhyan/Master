@@ -1,8 +1,11 @@
 package Conquista01;
 
+//TODO Exercício sem o enunciado. Adicionar o texto do exercicío como comentário /**
+
 public class DevChris4 {
     public static void main(String[] args) {
         byte menorNumero = 35;
+        //TODO Nome de variável não pode conter acentuação
         int número = 50;
         float decimalPequeno = 2F;
         boolean verdadeiroOuFalso = true;

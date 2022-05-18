@@ -2,6 +2,8 @@ package Conquista02;
 
 public class DevChris4 {
     public static void main(String[] args) {
+        //TODO Está passando em mais de um if.
+        // Utilizar else if pra resolver esse exercício
         /*Criar um código que verifica 3 vezes (IF) se o valor de uma variável é igual a um valor qualquer
         sendo atendida na segunda condição, não executando a terceira e nem um ELSE
          */
