@@ -1,4 +1,4 @@
-package Conquista02;
+package Conquista2;
 
 public class DevChris4 {
     public static void main(String[] args) {
@@ -21,5 +21,6 @@ public class DevChris4 {
         }
         else if (valor ==0)
             System.out.println("Nada não");
+
     }
 }

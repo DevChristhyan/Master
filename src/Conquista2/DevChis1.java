@@ -1,6 +1,4 @@
-package Conquista02;
-
-import java.util.Scanner;
+package Conquista2;
 
 public class DevChis1 {
 
@@ -14,6 +12,9 @@ public class DevChis1 {
 
         else if (estoque >= 100)
             System.out.println("Maior que 100");
+
+
+
 
 
     }

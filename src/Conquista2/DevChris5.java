@@ -1,4 +1,4 @@
-package Conquista02;
+package Conquista2;
 
 public class DevChris5 {
     public static void main(String[] args) {
@@ -25,6 +25,7 @@ public class DevChris5 {
 
             default:
                 System.out.println("O valor não é compatível");
+
 
 
         }
