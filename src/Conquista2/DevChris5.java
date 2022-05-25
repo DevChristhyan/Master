@@ -3,23 +3,21 @@ package Conquista2;
 public class DevChris5 {
     public static void main(String[] args) {
 
-        /*Criar um código com uma estrutura SWITCH que verifica se o valor de uma variável é igual ao case.
-         (1, 2, 3). Os cases devem escrever quando o valor for igual ao seu próprio. Mostrando apenas a frase do case referente ao valor.
-         */
+        //TODO se atentar ao enunciado da questão. "verifica se o valor de uma variável é igual ao case. (1, 2, 3)."
 
-        String processador = "AMD Ryzen";
+        String processador = "2";
 
         switch (processador) {
 
-            case "Intel Xeon Platinum":
+            case "1" :
                 System.out.println("Intel Xeon Platinum");
                 break;
 
-            case "AMD Ryzen":
-                System.out.println("AMD Ryzen");
+            case "2":
+                System.out.println("AMD Ry-zen");
                 break;
 
-            case "Intel Celeron":
+            case "3":
                 System.out.println("Intel Celeron");
                 break;
 

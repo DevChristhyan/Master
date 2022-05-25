@@ -4,7 +4,7 @@ public class DevChris4 {
     public static void main(String[] args) {
 
         byte menorNumero = 100;
-        int número = 5000;
+        int numero = 5000;
         float decimalPequeno = 200.0F;
         boolean verdadeiroOuFalso = true;
         char caracteres = ',';
