@@ -1,12 +1,49 @@
 [//]: # (ADICIONAR ESPAÇAMENTO AOS TÍTULOS)
 
-#  documentação
+# Documentação
 
 ##  Atalhos do IntelliJ
 
+
+#### Estrutura de classe
+
+    / Estruturas são tipos de valor; classes são tipos de referência.
+
+#### Variáveis
+
+    / Cada variável obrigatoriamente deve ter um tipo declarado antes que possa ser utilizada.
+    / Tipos Primitivos: boolean, byte, char, short, int, long, float e double.
+
+#### Metódo Main
+
+    / É o ponto de partida do programa, famoso PSVM
+
 ###  psvm.
 
-    /Atalho para criação dométodo main
+    /Atalho para criação do 
+
+#### Operadores Aritméticos
+
+    / Operação - Operador
+    /Adição	        +	
+    /Subtração	    -	
+    /Multiplicação	*	
+    /Divisão	    /	
+    /Resto	        %	
+    
+#### Operadores de Comparação
+
+    /* > (maior): Retorna verdadeiro caso o primeiro valor seja maior que o segundo.
+       >= (maior ou igual): Retorna verdadeiro caso o primeiro valor seja maior ou igual ao segundo.
+       < (menor): Retorna verdadeiro caso o primeiro valor seja menor que o segundo.
+       <= (menor ou igual): Retorna verdadeiro caso o primeiro valor seja menor ou igual ao segundo
+       == (igual a): Retorna verdadeiro caso o primeiro valor seja igual ao segundo.
+    /* != (diferente de): Retorna verdadeiro caso o primeiro valor seja diferente do segundo.
+
+#### Operadores Lógicos
+
+    /  &&  Utilizado quando desejamos que as duas expressões sejam verdadeiras.
+    /  ||  Utilizado quando precisamos que pelo meno um das expressões seja verdadeira.  
 
 ### Comentários. 
 
@@ -45,7 +82,7 @@
 
 #### For
 
-    /Perfeito para fazer repetição envolvendo conatador
+    /Perfeito para fazer repetição envolvendo contador
 
 #### Arrays
 
