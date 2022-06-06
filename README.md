@@ -7,7 +7,7 @@
 
 #### Estrutura de classe
 
-    / Estruturas são tipos de valor; classes são tipos de referência.
+    / Estruturas são tipos de valor; classes são tipos de referênc ia.
 
 #### Variáveis
 
@@ -20,7 +20,7 @@
 
 ###  psvm.
 
-    /Atalho para criação do 
+    /Atalho para criação do método Main
 
 #### Operadores Aritméticos
 
